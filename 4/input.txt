@@ -1,0 +1,2 @@
+message for output.txt
+another message for output.txt
